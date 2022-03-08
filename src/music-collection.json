@@ -1,0 +1,22 @@
+[
+  {
+    "artist": "Dire Straits",
+    "title": "Brothers in Arms",
+    "types": ["SACD"]
+  },
+  {
+    "artist": "Pink Floyd",
+    "title": "The Dark Side of the Moon",
+    "types": ["SACD", "CD"]
+  },
+  {
+    "artist": "Mark Knopfler",
+    "title": "Privateering",
+    "types": ["CD"]
+  },
+  {
+    "artist": "Queen",
+    "title": "Made in Heaven",
+    "types": ["CD"]
+  }
+]
